@@ -1,6 +1,6 @@
 ### Hi there, I'm Richard 👋
 
-🔭 I'm a seasoned iOS developer, currently crafting an iOS game with a custom engine that utilizes CoreAnimation.
+🔭 I'm a seasoned iOS developer, currently crafting an iOS game with a custom engine that utilises CoreAnimation.
 
 🌱 Excited by the potential of integrating AI, deep learning, and CoreML into iOS development. 
 
