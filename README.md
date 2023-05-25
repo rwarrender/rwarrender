@@ -4,7 +4,7 @@
 
 🌱 Excited by the potential of integrating AI, deep learning, and CoreML into iOS development. 
 
-👯 Let's connect if you're an iOS developer or just curious about it!
+👯 Let's connect if you're an iOS developer or just curious about it. Find me at a London Meetup!
 
 💬 Got questions about UIKit, Swift, or integrating network layers and REST APIs? I've got answers.
 
@@ -12,4 +12,4 @@
 
 ⚡ Fun fact: I can fly planes and prevent AI from taking all the boring human jobs!
 
-Living in Swift, Xcode, and too many shell terminals as I create user-friendly mobile applications. Stay tuned to see what's next!
+Living in Xcode, Swift and too many shell terminals as I create user-friendly mobile applications. Stay tuned to see what's next!
