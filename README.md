@@ -12,4 +12,4 @@
 
 ⚡ Fun fact: I can fly planes and prevent AI from taking all the boring human jobs!
 
-Living in Swift, Xcode, and SSH terminal as I create user-friendly mobile applications. Stay tuned to see what's next!
+Living in Swift, Xcode, and too many shell terminals as I create user-friendly mobile applications. Stay tuned to see what's next!
