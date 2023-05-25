@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Richard 👋
 
-<!--
-**rwarrender/rwarrender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm a seasoned iOS developer, currently crafting an iOS game with a custom engine that utilizes CoreAnimation.
 
-Here are some ideas to get you started:
+🌱 Excited by the potential of integrating AI, deep learning, and CoreML into iOS development. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 Let's connect if you're an iOS developer or just curious about it!
+
+💬 Got questions about UIKit, Swift, or integrating network layers and REST APIs? I've got answers.
+
+📫 Catch me on [LinkedIn](https://www.linkedin.com/in/richardwarrender/), [Twitter](https://twitter.com/rcwarrender), or drop me a message on my [blog](https://richardwarrender.com/).
+
+⚡ Fun fact: I can fly planes and prevent AI from taking all the boring human jobs!
+
+Living in Swift, Xcode, and SSH terminal as I create user-friendly mobile applications. Stay tuned to see what's next!
